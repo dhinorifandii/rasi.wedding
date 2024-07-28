@@ -1,6 +1,6 @@
 .simply-countdown {
   overflow: hidden;
-  display: table;
+  display: flex;
   font-family: "Arial", sans-serif;
   margin: auto;
 }
